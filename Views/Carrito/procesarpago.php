@@ -77,6 +77,7 @@ $infoTerminos = !empty(getInfoPage(PTERMINOS)) ? getInfoPage(PTERMINOS)['conteni
 								<a class="nav-link" id="profile-tab" data-toggle="tab" href="#registro" aria-controls="profile" aria-selected="false">Crear cuenta</a>
 							</li>
 						</ul>
+						<h6>¡Si deseas iniciar sesión debes crear una cuenta!</h6>
 						<div class="tab-content" id="myTabContent">
 							<div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="home-tab">
 								<br>

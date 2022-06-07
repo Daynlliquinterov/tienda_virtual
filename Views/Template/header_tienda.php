@@ -246,7 +246,7 @@ $infoPreguntas = !empty(getInfoPage(PPREGUNTAS)) ? getInfoPage(PPREGUNTAS)['cont
 							</a>
 						<?php } else { ?>
 							<a href="<?= base_url() ?>/login" class="flex-c-m trans-04 p-lr-25">
-								Iniciar Sesiónn
+								Iniciar Sesión
 							</a>
 						<?php } ?>
 					</div>
